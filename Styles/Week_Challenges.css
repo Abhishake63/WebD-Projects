@@ -1,0 +1,42 @@
+body {
+  text-align: center;
+  background-color: rgb(233, 210, 173);
+}
+a {
+  color: royalblue;
+  font-size: 50px;
+  text-decoration: none;
+}
+a:hover {
+  color: red;
+}
+h1 {
+  color: purple;
+  font-family: "Roboto", sans-serif;
+}
+img {
+  width: 80px;
+  height: 80px;
+  border-radius: 40px;
+}
+ol {
+  list-style-position: inside;
+  font-weight: bold;
+  font-size: 22px;
+}
+li {
+  margin: 2px auto 25px auto;
+  width: 300px;
+  border-radius: 40px;
+  background-color: yellowgreen;
+  padding: 15px;
+  list-style: none;
+}
+
+li p {
+  margin: 2px auto;
+}
+
+li h2 {
+  margin: 5px auto;
+}

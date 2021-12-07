@@ -1,0 +1,75 @@
+header {
+  text-align: center;
+}
+
+body {
+  background-color: rgb(244, 234, 255);
+}
+h1 {
+  color: rgb(155, 0, 155);
+  font-weight: bolder;
+}
+
+img {
+  width: 180px;
+  margin-bottom: 20px;
+}
+
+main {
+  width: 700px;
+  height: 550px;
+  background-color: rgb(153 20 201 / 91%);
+  margin: auto;
+  padding: 30px;
+  margin-bottom: 30px;
+  border-radius: 5px;
+  color: white;
+  font-family: "Roboto", sans-serif;
+}
+
+span {
+  font-weight: bold;
+}
+
+.element {
+  color: black;
+  background-color: yellow;
+  border-radius: 5px;
+  padding: 3px;
+}
+
+footer {
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+  background-color: rgb(251 214 19 / 85%);
+  border-radius: 8px;
+  padding: 10px;
+}
+
+a:hover,
+a:active {
+  color: rgb(0, 60, 255);
+  background-color: azure;
+}
+
+ul {
+  list-style-type: none;
+  border-left: 5px solid transparent;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  margin-bottom: 5px;
+  padding-left: 10px;
+  border-left: 5px solid transparent;
+}
+
+.Yellow {
+  color: yellow;
+  border-color: yellow;
+}

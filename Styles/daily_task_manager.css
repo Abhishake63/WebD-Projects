@@ -1,0 +1,54 @@
+body {
+  text-align: center;
+  background-color: palegoldenrod;
+  border: 100px;
+}
+
+img {
+  width: 200px;
+  height: 200px;
+  border-radius: 100px;
+}
+
+h1 {
+  font-family: sans-serif;
+  color: red;
+}
+h1:hover {
+  background-color: orchid;
+  width: 400px;
+  margin: 0.67em auto;
+}
+
+p {
+  font-family: sans-serif;
+  font-size: 20px;
+  color: rgb(0, 0, 0);
+}
+
+a {
+  color: black;
+  text-decoration: none;
+}
+
+#profile a {
+  color: rgb(255, 255, 255);
+  text-decoration: none;
+  background-color: rgb(207, 93, 26);
+  padding: 6px;
+  margin: 6px 8px;
+  border: 2px solid royalblue;
+}
+
+a:hover {
+  color: royalblue;
+}
+#today-project {
+  color: orange;
+  font-family: "Mochiy Pop P One", sans-serif;
+  font-weight: bold;
+}
+#profile {
+  color: red;
+  font-family: "Mochiy Pop P One", sans-serif;
+}
